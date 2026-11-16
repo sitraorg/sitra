@@ -19,7 +19,7 @@ Get your fonts from online sources with a sleek, friendly user interface. Sitra 
 
 ## Installation
 
-Embellish is available on Flathub.
+Sitra is available on Flathub.
 
 [<img width="240" alt="Download on Flathub" src="https://flathub.org/api/badge?svg&locale=en"/>](https://flathub.org/apps/io.github.sitraorg.sitra)
 
